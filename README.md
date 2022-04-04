@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karelpak1&show_icons=true&theme=react)](https://github.com/karelpak1/)
 
 <!--
 **karelpak1/karelpak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
